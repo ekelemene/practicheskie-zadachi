@@ -1,0 +1,7 @@
+D:\215\2 zadanie\bin\Debug\2 zadanie.exe.config
+D:\215\2 zadanie\bin\Debug\2 zadanie.exe
+D:\215\2 zadanie\bin\Debug\2 zadanie.pdb
+D:\215\2 zadanie\obj\Debug\2 zadanie.csproj.AssemblyReference.cache
+D:\215\2 zadanie\obj\Debug\2 zadanie.csproj.CoreCompileInputs.cache
+D:\215\2 zadanie\obj\Debug\2 zadanie.exe
+D:\215\2 zadanie\obj\Debug\2 zadanie.pdb
