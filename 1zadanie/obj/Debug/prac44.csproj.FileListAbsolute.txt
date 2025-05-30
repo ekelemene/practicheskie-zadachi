@@ -1,7 +1,0 @@
-D:\215\prac44\bin\Debug\prac44.exe.config
-D:\215\prac44\bin\Debug\prac44.exe
-D:\215\prac44\bin\Debug\prac44.pdb
-D:\215\prac44\obj\Debug\prac44.csproj.AssemblyReference.cache
-D:\215\prac44\obj\Debug\prac44.csproj.CoreCompileInputs.cache
-D:\215\prac44\obj\Debug\prac44.exe
-D:\215\prac44\obj\Debug\prac44.pdb
