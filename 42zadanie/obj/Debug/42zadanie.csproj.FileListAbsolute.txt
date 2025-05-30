@@ -1,0 +1,7 @@
+D:\215\42zadanie\bin\Debug\42zadanie.exe.config
+D:\215\42zadanie\bin\Debug\42zadanie.exe
+D:\215\42zadanie\bin\Debug\42zadanie.pdb
+D:\215\42zadanie\obj\Debug\42zadanie.csproj.AssemblyReference.cache
+D:\215\42zadanie\obj\Debug\42zadanie.csproj.CoreCompileInputs.cache
+D:\215\42zadanie\obj\Debug\42zadanie.exe
+D:\215\42zadanie\obj\Debug\42zadanie.pdb
